@@ -1,0 +1,12 @@
+{
+  "name": "ai-automation-roi-estimator",
+  "version": "1.0.0",
+  "description": "AI automation ROI estimator — annual savings, payback, and 5-year ROI — Swift Tech Co.",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": ["ai", "automation", "roi", "calculator", "swift-tech-co"],
+  "license": "MIT",
+  "homepage": "https://swifttechco.com/services/ai-automation/ai-workflow-automation"
+}
