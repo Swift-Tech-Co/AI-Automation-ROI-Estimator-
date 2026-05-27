@@ -1,5 +1,15 @@
 ﻿# AI Automation ROI Estimator
+[![npm](https://img.shields.io/npm/v/ai-automation-roi-estimator.svg)](https://www.npmjs.com/package/ai-automation-roi-estimator) [![npm downloads](https://img.shields.io/npm/dm/ai-automation-roi-estimator.svg)](https://www.npmjs.com/package/ai-automation-roi-estimator)
 
+## Install
+
+```bash
+npm install ai-automation-roi-estimator
+```
+
+```javascript
+const calc = require('ai-automation-roi-estimator');
+```
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Interactive Tool](https://img.shields.io/badge/Interactive-Tool-informational)](https://swifttechco.com) [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech-Co.-gold)](https://swifttechco.com)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://swifttechco.com)
