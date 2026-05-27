@@ -1,0 +1,15 @@
+{
+  "name": "ai-automation-roi-estimator",
+  "version": "1.0.0",
+  "description": "Calculate annual savings, payback period, and 5-year ROI from AI automation investment.",
+  "main": "javascript/calculator.js",
+  "scripts": { "cli": "node javascript/cli.js" },
+  "keywords": ["ai","automation","roi","calculator","savings","payback","swift-tech-co"],
+  "author": "Swift Tech Co. <swifttechcocanada@gmail.com> (https://swifttechco.com)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/Swift-Tech-Co/AI-Automation-ROI-Estimator-.git" },
+  "bugs": { "url": "https://github.com/Swift-Tech-Co/AI-Automation-ROI-Estimator-/issues" },
+  "homepage": "https://swifttechco.com/tools/ai-roi-calculator",
+  "engines": { "node": ">=14" },
+  "files": ["javascript/calculator.js", "README.md", "LICENSE"]
+}
